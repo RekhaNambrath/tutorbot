@@ -1,0 +1,7 @@
+---
+applications:
+- name: tutor
+  host: nre
+  path: .
+  memory: 128M
+  command: python server.py
